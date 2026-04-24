@@ -1,12 +1,12 @@
-# Privacy Toolbox
+# Governance, Risk & Compliance Toolbox
 
-![Privacy Toolbox banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:0f172a&height=220&section=header&text=Privacy%20Toolbox&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Curated%20privacy%2C%20data%20protection%2C%20and%20cybersecurity%20resources&descAlignY=58)
+![Governance, Risk and Compliance Toolbox banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:0f172a&height=220&section=header&text=Governance%2C%20Risk%20%26%20Compliance%20Toolbox&fontColor=ffffff&fontSize=34&animation=fadeIn&fontAlignY=38&desc=Curated%20resources%20for%20privacy%2C%20cybersecurity%2C%20AI%2C%20audits%2C%20and%20compliance&descAlignY=58)
 
-Privacy Toolbox is a curated library of privacy, data protection, and cybersecurity resources.
+Governance, Risk & Compliance Toolbox is a curated library of resources for privacy, data protection, cybersecurity, operational resilience, artificial intelligence, audits, and compliance.
 
 The project is intentionally lightweight: it uses Markdown files to collect useful laws, guidance, tools, templates, and reference material in a format that is easy to browse and expand.
 
-![Privacy illustration](https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1200&q=80)
+![Governance and compliance illustration](https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1200&q=80)
 
 ![EU Privacy](https://img.shields.io/badge/Focus-EU%20Privacy-0f766e?style=for-the-badge)
 ![DPIA](https://img.shields.io/badge/Focus-DPIA%20%26%20TIA-1d4ed8?style=for-the-badge)
@@ -21,6 +21,8 @@ privacy-toolbox-main/
 ├── privacy_resources.md
 └── resources/
     ├── README.md
+    ├── artificial-intelligence.md
+    ├── cybersecurity-and-resilience.md
     ├── guides-and-dpia.md
     ├── laws-and-regulations.md
     ├── privacy-tools-and-services.md

@@ -6,6 +6,8 @@ The resource library is organized by topic so it can scale more easily than a si
 
 ## Files
 
+- [artificial-intelligence.md](artificial-intelligence.md)
+- [cybersecurity-and-resilience.md](cybersecurity-and-resilience.md)
 - [laws-and-regulations.md](laws-and-regulations.md)
 - [guides-and-dpia.md](guides-and-dpia.md)
 - [privacy-tools-and-services.md](privacy-tools-and-services.md)
