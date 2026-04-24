@@ -1,29 +1,25 @@
 # Privacy Resources
 
-## 🔒 Privacy Laws & Regulations
-- [GDPR (General Data Protection Regulation)](https://gdpr.eu/)
-- [CCPA (California Consumer Privacy Act)](https://oag.ca.gov/privacy/ccpa)
-- [ePrivacy Regulation](https://ec.europa.eu/digital-strategy/our-policies/eprivacy-regulation_en)
+![Resources banner](https://capsule-render.vercel.app/api?type=rect&color=0:134e4a,100:1e293b&height=140&section=header&text=Browse%20By%20Topic&fontColor=ffffff&fontSize=30&animation=fadeIn)
 
-## 🛠 Privacy Tools & Services
-- [DuckDuckGo (Privacy-focused search engine)](https://duckduckgo.com/)
-- [ProtonMail (Encrypted email)](https://protonmail.com/)
-- [Tor Project (Anonymous browsing)](https://www.torproject.org/)
+This file is the main index for the repository.
 
-## 📖 Privacy Guides
-- ### Cookie
-- Coming Soon
-- ### Transfer Impact Assessment
-- [Transfer Impact Assessment - Pratical Guide (CNIL)](https://www.cnil.fr/sites/cnil/files/2025-01/guide_tia.pdf)
-- ## API - Application Programming Interfaces
-- [Recommandation technique - RELATIVE À L’UTILISATION DES INTERFACES DE PROGRAMMATION APPLICATIVES (API) POUR LE PARTAGE SECURISÉ DE DONNÉES À CARACTÈRE PERSONNEL (CNIL) **In French** ](https://www.cnil.fr/sites/cnil/files/2023-07/recommandation_api.pdf)
+## Browse By Topic
 
-## 📖 Privacy Templates
-- Coming Soon
+- [Laws and Regulations](resources/laws-and-regulations.md)
+- [Guides and DPIA Resources](resources/guides-and-dpia.md)
+- [Privacy Tools and Services](resources/privacy-tools-and-services.md)
+- [Templates and Worksheets](resources/templates-and-worksheets.md)
 
-## 🚀 Contributing
-Feel free to contribute by adding new links, categorizing resources, or suggesting improvements!
+![Topic badges](https://img.shields.io/badge/Organized%20By-Topic-0f766e?style=flat-square) ![Descriptions included](https://img.shields.io/badge/Each%20Link-Described-1d4ed8?style=flat-square) ![Curated library](https://img.shields.io/badge/Format-Markdown%20Library-334155?style=flat-square)
 
-- Fork this repository
-- Add your contributions
-- Submit a pull request
+## Suggested Next Additions
+
+- Country-specific privacy authority guidance
+- Templates for notices, records of processing, and incident response
+- Vendor and transfer assessment resources
+- Practical checklists for cookies, CCTV, AI, and children’s data
+
+## Contributing
+
+When adding a new resource, include a short description and place it in the most relevant topic file.
