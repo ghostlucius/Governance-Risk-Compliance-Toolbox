@@ -1,4 +1,4 @@
-# Laws and Regulations
+# Privacy Laws and Regulations
 
 ## Core Privacy Laws
 
